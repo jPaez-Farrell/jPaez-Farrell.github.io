@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Published
-### [Commodity prices and macroeconomic dynamics](https://ideas.repec.org/a/eee/eecrev/v141y2022ics001429212100252x.html), Journal of Economic Dynamics and Control (2003), with Ruthira Naraidoo (U. of Pretoria)
+### [Commodity prices and macroeconomic dynamics](https://ideas.repec.org/a/eee/eecrev/v141y2022ics001429212100252x.html), Journal of Economic Dynamics and Control (2003), with Ruthira Naraidoo
 
 ### [Fiscal policy shocks and international spillovers](https://ideas.repec.org/a/eee/eecrev/v141y2022ics001429212100252x.html), European Economic Review, 2022 (41), with [Ayobami Ilori](https://aeilori.wordpress.com/) and [Christoph Thoenissen](https://sites.google.com/site/thoenisseneconomics/)
 
@@ -32,11 +32,21 @@ author_profile: true
 ### [Understanding monetary policy in Central European countries using Taylor-type rules: the case of the Visegrad four](https://ideas.repec.org/a/ebl/ecbull/eb-06e50023.html), Economics Bulletin, 2007, 5(3)
 
 
-## Unpublished (work in progress)
+## Submitted
 ### [On the unimportance of commitment for monetary policy](https://ideas.repec.org/p/arx/papers/2308.08044.html)
 
-### [Taylor rules, central bank preferences and inflation targeting](https://ideas.repec.org/p/shf/wpaper/2015023.html)
+### [Business cycle models with labour market frictions: the role of the matching function](https://ideas.repec.org/p/shf/wpaper/2025006.html), with Ruthira Naraidoo.
 
+## Research Funding
+### [(2025-2027) Leverhulme Trust Research Fellowship, £57,635. Project title: 'Understanding the consequences of commodity dependence in developing countries'.]
+
+### [(2025-20207) Leverhulme Trust Research Project Grant, £228,980. Project title: 'Productivity and house prices', with Christoph Thoenissen (P.I.), Alberto Montagnoli and Emily Whitehouse.]
+
+###[(2018) British Academy Newton Mobility Grant, £6,700. Project title: 'Unemployment and commodity markets in South Africa'. Joint with Ruthira Naraidoo (University of Pretoria, South Africa).]
+
+### [(2014) University of Sheffield, Workshop Funding.]
+
+### [(2003) Central Bank of Turkey Young Economist Award.]
 
 
 
