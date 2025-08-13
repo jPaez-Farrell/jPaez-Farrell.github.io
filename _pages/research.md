@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-(List in the process of being completed)
+
 
 ## Published
 ### [Commodity prices and macroeconomic dynamics](https://ideas.repec.org/a/eee/eecrev/v141y2022ics001429212100252x.html), Journal of Economic Dynamics and Control (2003), with Ruthira Naraidoo (U. of Pretoria)
